@@ -1,1 +1,1 @@
-# riscv-os-rs
+# rcore
